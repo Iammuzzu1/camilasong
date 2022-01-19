@@ -3,7 +3,7 @@
     "logo": "https://telegra.ph/file/8f77039e12f5242ddd07c.jpg",
     "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by [Asuna Robot](https://t.me/My_Asuna_Robot).",
     "keywords": ["music", "voicechat", "telegram"],
-    "repository": "https://github.com/HuntingBots/AsunaMusic",
+    "repository": "https://github.com/iammuzzu1/AsunaMusic",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
